@@ -3,3 +3,5 @@
 output
 conf.json
 data
+static/favicon.ico
+template/header.html
